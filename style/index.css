@@ -68,4 +68,12 @@ header nav a:hover {
   margin-right: 15px;
   color: white;
   font-size: 12px;
+
+  cursor: pointer;
+  transition: .3s ease all;
+}
+
+.button:hover {
+  background-color: rgb(58, 86, 165);
+  color: black;
 }
