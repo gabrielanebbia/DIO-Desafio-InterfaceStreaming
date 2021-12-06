@@ -51,5 +51,12 @@ header nav a:hover {
 }
 
 .games-container .description {
+  margin-top: 10px;
   margin-bottom: 40px;
+}
+
+.games-container .title {
+  margin-top: 15%;
+  font-size: 40px;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
 }
