@@ -77,3 +77,11 @@ header nav a:hover {
   background-color: rgb(58, 86, 165);
   color: black;
 }
+
+.infos-container{
+  margin-left: 20px;
+}
+
+.games-container .infos-container{
+  width: 70%;
+}
