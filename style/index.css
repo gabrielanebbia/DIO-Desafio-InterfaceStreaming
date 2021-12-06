@@ -37,3 +37,10 @@ header nav a {
 header nav a:hover {
   color:  #fff;
 }
+
+.games-container {
+  font-size:  16px;
+  height: 400px;
+  background: url('../img/capa-game.jpg');
+  background-size: cover;
+}
