@@ -98,3 +98,7 @@ header nav a:hover {
 .item img {
   height: 300px;
 }
+
+.carousel-games {
+  margin-top: 10px;
+}
