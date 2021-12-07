@@ -78,6 +78,10 @@ header nav a:hover {
   color: black;
 }
 
+.button i{
+  margin-right: 8px;
+}
+
 .infos-container{
   margin-left: 20px;
 }
