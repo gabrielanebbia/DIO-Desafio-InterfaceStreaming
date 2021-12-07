@@ -89,3 +89,18 @@ header nav a:hover {
 .games-container .container{
   width: 70%;
 }
+
+.box-game {
+  height: 100%;
+  width: 100%;
+  display: block;
+  cursor: pointer;
+}
+
+.item img {
+  height: 300px;
+}
+
+.carousel-games {
+  margin-top: 10px;
+}
