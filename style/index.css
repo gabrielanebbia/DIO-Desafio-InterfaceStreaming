@@ -82,10 +82,10 @@ header nav a:hover {
   margin-right: 8px;
 }
 
-.infos-container{
+.container{
   margin-left: 20px;
 }
 
-.games-container .infos-container{
+.games-container .container{
   width: 70%;
 }
