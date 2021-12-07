@@ -13,5 +13,7 @@ Recriar a interface do principal site de streaming mundial utilizando tecnologia
 
 ## Resultado
 
+Para esse desafio criei a Gameflix, um streaming de jogos.
+
 ![Resultado](img/tela.png)
 ![Resultado responsivo](img/tela-responsiva.png)
